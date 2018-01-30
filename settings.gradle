@@ -1,0 +1,3 @@
+rootProject.name = 'dropwizard-pagination-example'
+rootProject.buildFileName = 'build.gradle.kts'
+
